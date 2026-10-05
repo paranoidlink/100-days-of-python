@@ -11,8 +11,8 @@ pen.hideturtle()
 def Hirst(grid_size, spacing):
     start_point = ((grid_size - 1) * spacing) / 2
     pen.teleport(x=-start_point, y=-start_point)
-    for row in range(grid_size):
-        for column in range(grid_size):
+    for column in range(grid_size):
+        for row in range(grid_size):
             pen.color(r.choice(color_list))
             pen.dot(20)
             pen.penup()
