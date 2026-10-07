@@ -1,70 +1,168 @@
-100 Days of Code - Python
+# 100 Days of Code - Python
 
-This repository contains my progress through the 100 Days of Code - Python challenge. Each day features a new project, focusing on different aspects of Python development. Below is a brief overview of the projects completed so far.
+This repository tracks my progress through Angela Yu's **100 Days of Code - The Complete Python Pro Bootcamp**.
 
-Day 1: Band Name Generator
+I'm using the challenge to rebuild my Python fundamentals after spending some time away from regular Python development. Alongside the course projects, I've also added some of my own exercises and experiments.
+
+## Progress
+
+| Days | Project | Status |
+|---|---|---|
+| Day 1 | Band Name Generator | ✅ |
+| Day 2 | Tip Calculator | ✅ |
+| Day 3 | Treasure Island | ✅ |
+| Day 4 | Rock, Paper, Scissors | ✅ |
+| Day 5 | Password Generator | ✅ |
+| Day 6 | Reeborg's World Maze Solver | ✅ |
+| Day 7 | Hangman | ✅ |
+| Day 8 | Caesar Cipher | ✅ |
+| Day 9 | Silent Auction | ✅ |
+| Day 10 | Calculator | ✅ |
+| Day 11 | Blackjack | ✅ |
+| Day 12 | Number Guessing Game | ⚠️ Lost |
+| Day 13 | Debugging | ⚠️ Lost |
+| Day 14 | Higher/Lower | ⚠️ Lost |
+| Day 15 | Coffee Machine | ⚠️ Lost |
+| Day 16 | OOP Coffee Machine | ⚠️ Lost |
+| Day 17 | Quiz Game | ⚠️ Lost |
+| Day 18 | Hirst Painting | ✅ |
+| Day 19 | Turtle Race | ✅ |
+| Days 20–21 | Snake Game | ✅ |
+
+> **Current progress: Days 1–21 complete**
+
+Some projects from Days 12–17 were completed during my earlier progress through the course, but the source files were unfortunately lost when changing PCs. They are marked above rather than being recreated purely for the sake of the repository.
+
+---
+
+## Course Projects
+
+### Day 1: Band Name Generator
 
 A simple introduction to Python, focusing on user input and string manipulation to generate a band name based on user responses.
 
-Day 2: Tip Calculator
+**Concepts:** User Input, Variables, Strings
+
+### Day 2: Tip Calculator
 
 A program that calculates the total bill, including tip percentage, and splits it among a group.
 
-Concepts: Variables, Data Types, Arithmetic Operations, f-strings
+**Concepts:** Variables, Data Types, Arithmetic Operations, f-strings
 
-Day 3: Treasure Island (Text-Based Adventure Game)
+### Day 3: Treasure Island
 
-An interactive game using conditional statements where the player navigates through choices to find treasure.
+An interactive text-based adventure game where the player navigates through a series of choices to find the treasure.
 
-Concepts: If/Else Statements, Nested Conditions, Logical Operators
+**Concepts:** If/Else Statements, Nested Conditions, Logical Operators
 
-Day 4: Rock, Paper, Scissors
+### Day 4: Rock, Paper, Scissors
 
-A game that simulates Rock, Paper, Scissors against the computer, incorporating randomness.
+A game that simulates Rock, Paper, Scissors against the computer.
 
-Concepts: Lists, Random Module, Loops
+**Concepts:** Lists, Random Module, Loops, Conditional Logic
 
-Day 5: Password Generator
+### Day 5: Password Generator
 
 A program that generates a random password based on user preferences for length and complexity.
 
-Concepts: Lists, Loops, Random Choice, String Manipulation
+**Concepts:** Lists, Loops, Random Choice, String Manipulation
 
-Day 6: Reeborg’s World Maze Solver
+### Day 6: Reeborg's World Maze Solver
 
-A challenge in Reeborg’s World to navigate a maze using a structured approach.
+A challenge in Reeborg's World to navigate a maze using a structured approach.
 
-Concepts: Functions, Loops, Conditional Logic
+**Concepts:** Functions, Loops, Conditional Logic
 
-Day 7: Hangman
+### Day 7: Hangman
 
-A text-based Hangman game where the user guesses letters to reveal a hidden word.
+A text-based Hangman game where the player guesses letters to reveal a hidden word.
 
-Concepts: Lists, Loops, String Manipulation, ASCII Art
+**Concepts:** Lists, Loops, String Manipulation, ASCII Art
 
-Day 8: Caesar Cipher
+### Day 8: Caesar Cipher
 
 A program that encrypts and decrypts messages using the Caesar cipher method.
 
-Concepts: Functions, Lists, Modulo Arithmetic, String Manipulation
+**Concepts:** Functions, Lists, Modulo Arithmetic, String Manipulation
 
-Day 9: Silent Auction
+### Day 9: Silent Auction
 
-A program that manages a blind auction, determining the highest bidder.
+A program that manages a blind auction and determines the highest bidder.
 
-Concepts: Dictionaries, Loops, User Input Validation
+**Concepts:** Dictionaries, Loops, User Input Validation
 
-Day 10: Calculator
+### Day 10: Calculator
 
 A basic calculator that allows continuous calculations while offering the option to retain previous results.
 
-Concepts: Functions, Dictionaries, Recursion, Input Validation
+**Concepts:** Functions, Dictionaries, Recursion, Input Validation
 
-Day 11: Blackjack (Capstone Project)
+### Day 11: Blackjack
 
-A text-based Blackjack game simulating a real casino experience, including game logic for the dealer and player.
+A text-based Blackjack game simulating a casino-style game, including logic for the dealer and player.
 
-Concepts: Lists, Dictionaries, Random Module, Game Logic, Functions
+**Concepts:** Lists, Dictionaries, Random Module, Game Logic, Functions
 
-This README will be updated as I progress through the challenge. Stay tuned for more projects! 🚀
+### Days 12–17
 
+These projects were completed previously but the source files were lost when changing PCs. They are therefore recorded in the progress tracker without recreating them.
+
+### Day 18: Hirst Painting
+
+A program using Turtle graphics to recreate a grid of coloured dots, with the implementation generalised to support different grid sizes and spacing.
+
+**Concepts:** Turtle Graphics, Loops, Functions, Classes, Parameters
+
+### Day 19: Turtle Race
+
+A Turtle graphics racing game where multiple turtles are randomly moved until one crosses the finish line.
+
+**Concepts:** Turtle Graphics, Loops, Randomness, Lists, Object Collections
+
+### Days 20–21: Snake Game
+
+A Snake game built using multiple classes and Turtle graphics. The snake can move, turn, grow when eating food, detect wall and tail collisions, and track the player's score.
+
+**Concepts:** Object-Oriented Programming, Classes, Inheritance, Lists, List Slicing, Object Collections, Event Handling, Game State, Collision Detection
+
+---
+
+## Additional Projects & Exercises
+
+In addition to the course projects, I've also built smaller projects and experiments while working through the course.
+
+### AI Core Crafting Calculator
+
+A crafting calculator for determining the materials required to create an AI Core and its component materials.
+
+This project was useful for practising functions and breaking a larger problem into smaller pieces. It also highlighted areas I'm continuing to improve, particularly data modelling and representing related data cleanly.
+
+### Other Python Projects
+
+This repository also contains earlier Python projects and exercises, including:
+
+- Calculator
+- Budget Tracker
+- To-Do List
+- Blackjack
+- Secret Santa
+- FFXIV Dancer Damage Adjuster
+- 3x-1
+- Codecademy exercises
+
+---
+
+## What's Next
+
+The next section of the course moves into topics including:
+
+- Files, directories and file paths
+- CSV data
+- Pandas
+- List comprehensions
+- Dictionaries and data processing
+- Tkinter and GUI development
+- Error handling and exceptions
+- JSON
+
+The goal isn't just to complete the 100 days, but to become more comfortable designing, debugging and structuring Python programs independently.
