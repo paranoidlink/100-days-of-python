@@ -2,7 +2,7 @@
 
 This repository tracks my progress through Angela Yu's **100 Days of Code - The Complete Python Pro Bootcamp**.
 
-I'm using the challenge to rebuild my Python fundamentals after spending some time away from regular Python development. Alongside the course projects, I've also added some of my own exercises and experiments.
+I'm using the challenge to rebuild my Python fundamentals after spending some time away from regular Python development.
 
 ## Progress
 
@@ -124,31 +124,6 @@ A Turtle graphics racing game where multiple turtles are randomly moved until on
 A Snake game built using multiple classes and Turtle graphics. The snake can move, turn, grow when eating food, detect wall and tail collisions, and track the player's score.
 
 **Concepts:** Object-Oriented Programming, Classes, Inheritance, Lists, List Slicing, Object Collections, Event Handling, Game State, Collision Detection
-
----
-
-## Additional Projects & Exercises
-
-In addition to the course projects, I've also built smaller projects and experiments while working through the course.
-
-### AI Core Crafting Calculator
-
-A crafting calculator for determining the materials required to create an AI Core and its component materials.
-
-This project was useful for practising functions and breaking a larger problem into smaller pieces. It also highlighted areas I'm continuing to improve, particularly data modelling and representing related data cleanly.
-
-### Other Python Projects
-
-This repository also contains earlier Python projects and exercises, including:
-
-- Calculator
-- Budget Tracker
-- To-Do List
-- Blackjack
-- Secret Santa
-- FFXIV Dancer Damage Adjuster
-- 3x-1
-- Codecademy exercises
 
 ---
 
