@@ -17,8 +17,8 @@ I'm using the challenge to rebuild my Python fundamentals after spending some ti
 | Day 7 | Hangman | ✅ |
 | Day 8 | Caesar Cipher | ✅ |
 | Day 9 | Silent Auction | ✅ |
-| Day 10 | Calculator | ✅ |
-| Day 11 | Blackjack | ✅ |
+| Day 10 | [Calculator](Day%2010-%20Calculator) | ✅ |
+| Day 11 | [Blackjack](Day%2011-%20Blackjack) | ✅ |
 | Day 12 | Number Guessing Game | ⚠️ Lost |
 | Day 13 | Debugging | ⚠️ Lost |
 | Day 14 | Higher/Lower | ⚠️ Lost |
@@ -93,13 +93,13 @@ A program that manages a blind auction and determines the highest bidder.
 
 ### Day 10: Calculator
 
-A basic calculator that allows continuous calculations while offering the option to retain previous results.
+A later version of my earlier calculator project, built while working through the 100 Days of Code course.
 
 **Concepts:** Functions, Dictionaries, Recursion, Input Validation
 
 ### Day 11: Blackjack
 
-A text-based Blackjack game simulating a casino-style game, including logic for the dealer and player.
+A later version of my earlier Blackjack project, with the course implementation providing a more developed take on the same type of game.
 
 **Concepts:** Lists, Dictionaries, Random Module, Game Logic, Functions
 
